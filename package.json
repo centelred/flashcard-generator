@@ -1,0 +1,29 @@
+{
+  "name": "flashcard-generator",
+  "version": "1.0.0",
+  "description": "Cloze Constructors node flashcard-generator",
+  "main": "flash.js",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^3.0.6"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/centelred/flashcard-generator.git"
+  },
+  "keywords": [
+    "flashcard",
+    "node",
+    "cloze-constructor"
+  ],
+  "author": "Curtis Coddington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/centelred/flashcard-generator/issues"
+  },
+  "homepage": "https://github.com/centelred/flashcard-generator#readme"
+}
